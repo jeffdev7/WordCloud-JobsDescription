@@ -1,0 +1,121 @@
+Programação em 3 camadas
+Conhecimento e aplicação de Orientação a Objetos
+Abordagem DDD , TDD e BDD
+Facilidade para trabalhar com Manutenção de Sistemas
+Atuação com C#. .NET Framework, .NET Core
+ASP Net
+MVC
+API
+Web Forms
+Entily Framewoek
+Javascripts
+CSS 3
+HTML 5
+Messageria (RabbitMQ)
+Web API
+JQuery
+SQL Server (DDL e DML)
+Messageria (RabbitMQ);
+100% home office.
+
+Responsabilidades
+
+Desenvolver integrações entre nossos fornecedores e a nossa plataforma
+Automação de processos internos
+Desenvolvimento da nossa plataforma em melhoria constante
+
+Qualificações
+
+Cursando ou concluído graduação na área de T.I.
+Ao menos 6 meses de experiência com Dev C# em geral
+Boa Lógica de programação.
+
+Responsabilidades
+- Desenvolver, testar e efetuar manutenção em aplicações;
+- Colaborar dentro dos times de desenvolvimento para projetos de diferentes indústrias;
+- Seguir os padrões de código e de qualidade estabelecidos;
+
+Qualificações
+- Formação em Ciências da Computação, Sistemas de Informação ou cursos correlatos;
+- Experiência com .Net Framework, Asp Net MVC e DDD;
+- Experiência com banco de dados relacionais;
+- Experiência com HTLM, CSS e JavaScript;
+- Desejável experiência de trabalho em ambientes de desenvolvimento ágil;
+
+Quais serão suas responsabilidades neste desafio?
+
+Desenvolver, manter e implantar sistemas e aplicações web;
+Realizar análises dos requisitos;
+Elaborar e implementar estruturas de dados.
+
+Qualificações Exigidas:
+
+Formação Eng./Ciências da Computação ou equivalente;
+Ter experiência com C# (.NET / .NET Core).
+Será considerado um grande diferencial ter conhecimento Java/Spring, assim como outras linguagens: Node.js, Python, Go, etc.;
+Ter experiência criando arquiteturas resilientes e escaláveis;
+Experiência com alguma plataforma Cloud (AWS, GCP, Azure, etc.)
+Experiência com Docker e Kubernetes;
+Experiência em Git e Jira;
+Vivência em metodologia ágil;
+Conhecimento em temas relacionados à DevOps: CI, CD, Monitoring e Observability;
+Conhecimento em Streaming de dados e Mensageria com Kafka, RabbitMQ, etc.;
+Conhecimento em bancos de dados relacionais e não-relacionais (MongoDB, ElasticSearch, Redis, etc.).
+
+Main responsibilities
+
+Desenvolver e suportar aplicações para atender às necessidades do negócio;
+Construir um código com qualidade e testável;
+Estudar e implementar novas tecnologias aderentes à plataforma;
+Apoiar na manutenção e evolução da arquitetura dos sistemas;
+Atuar em time ágil.
+
+O que esperamos de você?
+
+Sólidos conhecimentos em C#, ".Net Core'', ".NET 6" ;
+Conhecimentos em Javascript (Vue, ReactJS, AngularJS) , HTML5, CSS3
+Experiência com serviços de mensageria;
+Domínio de Testes unitário e integrado;
+Você, do seu jeito! A #Juntos preza pela liberdade de sermos nós mesmos. Acreditamos que nossas diferenças são importantíssimas para que sejamos cada vez mais fortes, e a diversidade enriquece cada vez mais o nosso time forte, empático e divertido!
+
+Desejável :
+
+Experiência com SQL Server e não relacional como MongoDB;
+Experiência com Arquitetura de Software com microservices;
+CI/CD;
+Conhecimentos avançados em Cloud Azure, Kubernetes e Docker;
+Ter atuado em times ágeis (Kanban, Scrum) e gostar de atuar com time multi-funcional;
+
+
+Pré Requisitos:
+
+Experiência com desenvolvimento de aplicações web utilizando C# e .Net Core Entity Framework, .NET Core, MVC, WCF, ASP.NET, HTML, CSS, Java Script, Angular;
+
+Conhecimentos sólidos de Orientação a Objeto Controle de Versão (GIT);
+
+Desenvolvimento de queries e procedures para Oracle ou MS SQL Server;
+
+Diferencial experiência em análise e definição de requisitos;
+
+Diferencial conhecimento em metodologias ágeis. Diferencial perfil de liderança técnica
+
+
+Atividades e Responsabilidades:
+· Dar manutenção em aplicações existentes
+· Realizar integrações com sistemas utilizando API REST
+· Debugar aplicações atrás de identificar erros
+· Participar de reuniões.
+· Refatorar códigos legados
+· Desenvolvimento e implementação de novas features
+· Buscar novas ferramentas e tecnologias para a melhoria contínua da aplicação
+
+
+Requisitos:
+· Experiência como desenvolvedor Mobile e com Flutter
+· Boa comunicação
+· Trabalho em equipe
+· Conhecimentos sobre API REST
+· Estar acostumado a trabalhar com versionamento de código com git
+· Ser autodidata
+· Ser proativo
+· Estar habituado a ler documentações de linguagens, frameworks, APIs.
