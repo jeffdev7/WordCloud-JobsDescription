@@ -23,4 +23,11 @@ additionalStopWords = ["Programação", "Conhecimento","Facilidade",
 "Domínio","códigos","funcional","efetuar","alguma","colaborar",
 "Dar","técnica","Sólidos","empático","criando","identificar",
 "Participar","internos","integrado","reuniões","proativo","Eng",
-"ambientes","construir","Entily","importantíssimas"]
+"ambientes","construir","Entily","importantíssimas", "ou","os",
+"OU","O","T","ferramentas", "manter", "equipe","times","features",
+"OS","relacionados","implantar","padrões","aplicação","testável",
+"camadas","desenvolvedor","negócio","aplicações","orientação",
+"implementação", "processos","Forms","estruturas","testar",
+"sistemas","plataforma","escaláveis","software","integrações",
+"Desenvolver","qualidade","Desenvolvimento","responsibilities",
+"monitoring"]
